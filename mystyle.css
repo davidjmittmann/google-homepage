@@ -1,0 +1,56 @@
+.navbar { 
+    display: inline;
+     
+
+}
+
+.navbar a{
+    text-decoration: none;
+    padding-left: 15px; 
+    color: #000; 
+    opacity: 0.75; 
+    font-family: Arial, sans-serif;
+    font-size: 13px; 
+
+}
+
+
+.active {  
+    float: right;
+    margin-right: 15px; 
+}
+
+
+
+#brandlogo {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding-top: 180px;
+}
+
+input {
+    display: block;
+    float: center; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 15px; 
+    width: 387px;
+    height: 39px; 
+    border-radius: 18px; 
+}
+
+button {
+    display: inline-block;
+    text-align: center; 
+    width: 100%; 
+    height: 36px; 
+    width: 180px; 
+    margin-top: 30px; 
+    background: rgb(216, 212, 212);
+    color: black;
+    border-radius: 4px; 
+    border: 1px solid #f2f2f2;
+    font-family: arial, sans-serif;
+    font-size: 14px; 
+}
